@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SceneTransitions</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="press_one_to_transition_to_scene_1">Press One to transition to scene 1</string>
+    <string name="press_two_to_transition_to_scene_2">Press Two to transition to scene 2</string>
+</resources>
